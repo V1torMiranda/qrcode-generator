@@ -1,5 +1,7 @@
 # Gerador de QR Code
 
+Acesse o projeto: https://v1tormiranda.github.io/qrcode-generator/
+
 Projeto de estudos em front-end desenvolvido para prática de HTML, CSS e JavaScript.
 
 A aplicação permite a geração de QR Codes a partir de textos ou links informados pelo usuário, utilizando uma API externa para a criação dos códigos.
